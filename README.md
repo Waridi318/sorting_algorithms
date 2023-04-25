@@ -1,2 +1,1 @@
-# sorting_algorithms
-Sorting algorithms
+Sorting Algorithms, Holberton School projects
